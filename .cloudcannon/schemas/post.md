@@ -1,6 +1,6 @@
 ---
 title: ''
-date:
+pubDate:
 tags:
   - blog
 author: David Large
