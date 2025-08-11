@@ -19,6 +19,10 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+    schemas:
+      default:
+        name: New Post
+        path: .cloudcannon/schemas/post.md
   pages:
     path: ''
     name: Pages
