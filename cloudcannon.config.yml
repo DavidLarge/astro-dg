@@ -5,7 +5,7 @@ paths:
 collections_config:
   about:
     path: src/content/about
-    name: About
+    name: Home header
     icon: bolt
     disable_url: false
     disable_add: false
@@ -14,7 +14,7 @@ collections_config:
   posts:
     path: src/content/posts
     name: Posts
-    icon: event_available
+    icon: wysiwyg
     disable_url: false
     disable_add: false
     disable_add_folder: false
