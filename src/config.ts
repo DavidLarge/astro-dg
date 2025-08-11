@@ -3,9 +3,9 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://astro-chiri.netlify.app/', // Site domain
+    website: 'https://dvdlrg.com/', // Site domain
     title: 'DVDLRG', // Site title
-    author: 'David Large', // Author name
+    author: 'dvdlrg', // Author name
     description: 'Minimal blog built by Astro', // Site description
     language: 'en-US' // Default language
   },
