@@ -13,6 +13,6 @@ pubDate: 2025-08-12T00:00:00+12:00
 
 > we are interested to hear how writers experience their hands in day-to-day life. We would like to know how people use them and their feelings about this, but also their relationship with the hands of others.
 
-Kinda glorious and fascinating and boring, all in one.
+Glorious and fascinating and boring.
 
 <a href="https://massobs.org.uk/" target="_blank" rel="noopener">https://massobs.org.uk/</a>
