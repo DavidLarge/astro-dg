@@ -11,6 +11,10 @@ From Yancey Strickler, after Cixin Liu:
 >
 > An increasing number of the population has scurried into their dark forests to avoid the fray.
 
+But we can anthologise the hell out of this scurrying:
+
+![](/uploads/qmayp8n9wvgdckjgmvxdfivfqpxiwy7frpsharrxkplgsf.jpg)
+
 Warren Ellis:
 
 > \[A\]ll the interesting writers are hiding in internet spider holes with their friends and they ain’t coming out. Who can blame them?
