@@ -4,7 +4,7 @@ export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
     website: 'https://dvdlrg.com/', // Site domain
-    title: 'Memorex', // Site title
+    title: 'MEMOREX', // Site title
     author: 'dvdlrg', // Author name
     description: 'Minimal blog built by Astro', // Site description
     language: 'en-US' // Default language
