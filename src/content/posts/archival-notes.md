@@ -31,7 +31,7 @@ Ring F contains only three shelves, and these are always exactly where one expec
 
 *The family photographs from this period show standard domestic arrangements. Birthday parties with identical cake decorations year after year — yellow icing, an invariably slightly lopsided butterfly cake. The same faces appear regularly: parents, presumably, and what appears to be an older sibling. Requests for genealogical verification have not yet been processed.*
 
-For lunch I opened a can of soup. Tomato, though the label had detached. The flavor was pleasant enough — slightly sweet, with that metallic or acidic undertone that comes from extended shelf storage. I ate it while reviewing the correspondence files, occasionally pausing to examine a postmark or return address with my magnifying glass.
+For lunch I opened a can of soup. Tomato, I suppose, though the label had detached. The flavor was pleasant enough — slightly sweet, with that metallic or acidic undertone that comes from extended shelf storage. I ate it while reviewing the correspondence files, occasionally pausing to examine a postmark or return address with my magnifying glass.
 
 The afternoon was spent relocating Boxes 8-11 to the climate-controlled section in Sub-level D. The elevator descends much further than the floor indicators suggest — pressing "D" initiates a journey that feels significantly longer than the three floors marked on the panel. The sub-level corridors extend in directions that don't correspond to the building's surface footprint. I have walked corridors down here that run parallel to others for what must be hundreds of metres, though the building above measures perhaps fifty metres at its widest point.
 
