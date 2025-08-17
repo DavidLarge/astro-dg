@@ -59,15 +59,11 @@ I spent forty minutes today searching for the exit to Reading Room C, despite ha
 
 *A commendation letter dated 2011 specifically mentions the subject's "remarkable ability to reconstruct histories from fragmentary evidence," though the letterhead bears no institutional identification and the signature is illegible.*
 
-*Of greatest interest are eleven small cards discovered loose throughout these boxes. Each contains brief, cryptic passages in the subject's handwriting, accompanied by extensive annotations in what appears to be the same hand, though the analytical style suggests considerable temporal distance between composition and analysis.*
+*Of greatest interest are eleven small cards discovered loose throughout these boxes. Each contains brief, cryptic passages in the subject's handwriting, accompanied by extensive annotations in what appears to be the same hand, though the analytical style suggests considerable temporal distance between composition and analysis. The first card holds the following typeset text:*
 
-> **FRAGMENT 1**
->
-> *Card text:* "The myth of the great South persists in corners. The City's greystone, which cannot mislead, remains vague, reproving. Thus the untruths we tell ourselves return."
->
-> *Annotation:* This passage clearly refers to the meteorological conditions prevalent in urban environments during the mid-19th century. The "great South" is undoubtedly a reference to the southerly winds that would have affected the construction and weathering of civic architecture. The "greystone" mentioned is obviously limestone, a common building material whose colour can indeed be used to predict weather patterns — hence it "cannot mislead," though the author playfully suggests its predictions remain "vague."
->
-> The use of "reproving" is particularly significant here, as it etymologically connects to the Latin "probare" (to test), suggesting the empirical nature of weather forecasting. The final sentence elegantly connects this meteorological observation to the human tendency to misread weather signs, as these misreadings inevitably "return" in the form of failed predictions.
+> *The myth of the great South persists in corners. The City's greystone, which cannot mislead, remains vague, reproving. Thus the untruths we tell ourselves return.*
+
+*Its annotation holds a confident distance, assuming much more than perhaps it should. It claims that the "great South" is a specific reference to the cardinal winds that would have affected the construction and weathering of civic architecture. Further, according to the subject, "greystone" and limestone are one and the same, and can be used to predict weather patterns.*
 
 I fell asleep at my desk tonight, sometime after midnight. I woke to find the desk lamp still burning and a strange taste in my mouth — not unpleasant, but unfamiliar, like copper pennies or the aftertaste of certain medications. The fragment cards were scattered around me, as if I had been arranging and rearranging them in my sleep. One had fallen to the floor, face-down beside my chair.
 
