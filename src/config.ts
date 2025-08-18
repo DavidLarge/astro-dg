@@ -5,7 +5,7 @@ export const themeConfig: ThemeConfig = {
   site: {
     website: 'https://dvdlrg.com/', // Site domain
     title: 'MEMOREX', // Site title
-    author: 'dvdlrg', // Author name
+    author: 'David Large', // Author name
     description: 'Memorex', // Site description
     language: 'en-US' // Default language
   },
