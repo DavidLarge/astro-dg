@@ -15,7 +15,7 @@ pubDate: 2025-08-26T00:00:00+12:00
 
 **COUNCILLOR F—**: *(Adjusting his spectacles)*<br>I propose the motion that the City exists, in the simplest of terms. The structures are real; our feet fall on the ██████ daily. How can we doubt what is in front of us?
 
-**COUNCILLOR S—**: *(Sitting upright, her brow furrowed)*<br>You misunderstand the ████ of the City. To propose its existence is to suggest uncertainty. To propose it is merely to assume its permanence—an assumption which has long been tested, but never confirmed.
+**COUNCILLOR S—**: *(Sitting upright, her brow furrowed)*<br>You misunderstand the ████ of the City. To propose its existence is to suggest uncertainty. To propose it is merely to assume its permanence — an assumption which has long been tested, but never confirmed.
 
 **COUNCILLOR V—**: *(Quietly, almost to herself)*<br>If it were not real, then where would we be? Can we even imagine a place that is not this?
 
@@ -39,7 +39,7 @@ pubDate: 2025-08-26T00:00:00+12:00
 
 *(There is a long silence. Councillors shift in their seats, some clearing their throats. Outside, the wind begins to rise, rattling the windowpanes.)*
 
-**COUNCILLOR S—**: *(Rubbing her chin)*<br>Perhaps it is best that we **don't** resolve this question. There are dangers in certainties. As long as we continue to dwell in the space of questioning, we are allowed to adapt, to shape the City to our will. But should we arrive at an answer—should we accept its **reality**—then we would cease to be.
+**COUNCILLOR S—**: *(Rubbing her chin)*<br>Perhaps it is best that we **don't** resolve this question. There are dangers in certainties. As long as we continue to dwell in the space of questioning, we are allowed to adapt, to shape the City to our will. But should we arrive at an answer — should we accept its **reality** — then we would cease to be.
 
 **COUNCILLOR V—**: *(Blinking, then speaking loudly, as if struck by the weight of the statement)*<br>A **ceasing to be**? Is that what you propose?
 
