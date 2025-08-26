@@ -9,9 +9,6 @@ pubDate: 2025-08-13T00:00:00+12:00
 
 <a href="https://quarter--mile.com/Human" target="_blank" rel="noopener">https://quarter--mile.com/Human</a>
 
-&nbsp;
-
-```
 <script>
 
 (r=()=>setInterval(t=>{for(j=o="\n",y=5;y--;document.body["inn"
@@ -21,4 +18,3 @@ pubDate: 2025-08-13T00:00:00+12:00
 D=Date()[16+(x/8|0)])?30:D*3,i+3),36)&1<<(x/2|0)%4+3*y},100))()
 
 </script>
-```
