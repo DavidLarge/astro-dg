@@ -37,12 +37,12 @@ The afternoon brings the serious visitors. Professor Chen examines her notes and
 
 —
 
-*You have to feel the words settle in your mind like sediment. That takes time.*
-
-—
-
 At five-thirty, she slips the dust cover back on the typewriter and stacks her papers. The security guard nods as she passes the turnstiles. In the parking lot, visitors load into their cars and drive back to their efficient lives. She walks fifty metres to the cast housing complex, where her room waits.
 
 Tomorrow more visitors will watch her work. Most will stare right through her, through their raised phones, before they move on to the art engines in the next pavilion.
 
 Tonight she sits and thinks about fragments.
+
+—
+
+*You have to feel the words settle in your mind like sediment. That takes time.*
