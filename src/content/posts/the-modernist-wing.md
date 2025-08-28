@@ -43,4 +43,6 @@ Tomorrow more visitors will watch her work. Most will stare right through her, t
 
 Tonight she sits and thinks about fragments.
 
-You have to feel the words settle in your mind like sediment. That takes time.
+—
+
+*You have to feel the words settle in your mind like sediment. That takes time.*
