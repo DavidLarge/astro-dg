@@ -1,4 +1,4 @@
 ---
 title: About
 ---
-A digital garden and collection of mostly wonderful things.
+Some fiction, and a digital garden / collection of mostly wonderful things.
