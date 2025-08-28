@@ -55,15 +55,6 @@ const ogImage = `/open-graph/${postSlug}.png`
               )
             }
           </div>
-          <div>
-            {
-              frontmatter.tags.map((tag: string) => (
-                <p>
-                  <a href={`/tags/${tag}`}>{tag}</a>
-                </p>
-              ))
-            }
-          </div>
         </div>
         <slot />
       </div>
