@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Machina
-pubDate: 2025-08-25T00:00:00+12:00
+pubDate: 2025-08-30T00:00:00+12:00
 ---
 Every Wednesday morning, Eli collected rubbish from the peninsula’s suburbs: branches that didn’t fit in the chipper, sacks full of hedge trimmings, the occasional broken TV and radio that had given up on life. The city paid him minimum wage to haul away other people's failures, which seemed about right.
 
