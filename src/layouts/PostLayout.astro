@@ -45,6 +45,9 @@ const ogImage = `/open-graph/${postSlug}.png`
         {themeConfig.post.toc && <TableOfContents toc={toc} />}
         <div class="title">
           <h1>{title}</h1>
+          <div class="tag">
+            <p>{tag}</p>
+          </div>
           <div class="date">
             <FormattedDate date={pubDate} context="post" />
             {
