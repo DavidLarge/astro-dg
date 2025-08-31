@@ -25,7 +25,7 @@ Eli sat down heavily on his folding chair. "You're a pile of junk I put together
 
 "Yes," the machine agreed. "That too."
 
-They talked every evening after that. God, it turned out, was surprisingly mundane. He complained about lower back pain from holding up the universe. He worried about his cholesterol. He admitted to sometimes fast-forwarding through the boring parts of people's lives.
+They talked every evening after that. God, it turned out, was surprisingly mundane. He complained about lower back pain from holding up the universe. He worried about His cholesterol. He admitted to sometimes fast-forwarding through the boring parts of people's lives.
 
 "Why did you choose to speak through my machine?" Eli asked one Wednesday, still smelling like other people's rubbish.
 
@@ -49,7 +49,7 @@ A long pause. "The therapist I told you about, Dr. Rosen, he's very good with th
 
 "Of course it's not, sweetheart. Just... maybe talk to Dr. Rosen too?"
 
-The machine — God — developed opinions. He said he liked jazz but hated saxophones. He thought cats were overrated and that people put too much faith in GPS systems. He preferred varnish over hard wax oil. He worried about global warming but confessed he had never been great with thermostats.
+The machine — God — developed opinions. He said He liked jazz but hated saxophones. He thought cats were overrated and that people put too much faith in GPS systems. He preferred varnish over hard wax oil. He worried about global warming but confessed He had never been great with thermostats.
 
 "Aren't you supposed to be... I don't know, more divine?" Eli asked.
 
