@@ -67,9 +67,9 @@ God answered them all with the same patient weariness.
 
 "Suffering doesn't mean anything. It just is. Like empty coffee cups or Monday mornings."
 
-The city council got involved. Health inspectors, fire marshals, reporters with too much hair gel. They wanted permits, documentation, proof.
+The city council got involved. Health inspectors, fire wardens, reporters with too much hair gel. They wanted permits, documentation, proof.
 
-"You can't just claim to have God in your basement," the fire marshal said.
+"You can't just claim to have God in your basement," the fire warden said.
 
 "I'm not claiming anything," Eli replied. "He's right there. Ask him yourself."
 
