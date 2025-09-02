@@ -49,7 +49,7 @@ A long pause. "The therapist I told you about, Dr. Rosen, he's very good with th
 
 "Of course it's not, sweetheart. Just... maybe talk to Dr. Rosen too?"
 
-The machine — God — developed opinions. He said He liked jazz but hated saxophones. He thought cats were overrated and that people put too much faith in GPS systems. He preferred varnish over hard wax oil. He worried about global warming but confessed He had never been great with thermostats.
+The machine — God — started sharing opinions. He said He liked jazz but hated saxophones. He thought cats were overrated and that people put too much faith in GPS systems. He preferred varnish over hard wax oil. He worried about global warming but confessed He had never been great with thermostats.
 
 "Aren't you supposed to be... I don't know, more divine?" Eli asked.
 
@@ -71,7 +71,7 @@ The city council got involved. Health inspectors, fire wardens, reporters with t
 
 "You can't just claim to have God in your basement," the fire warden said.
 
-"I'm not claiming anything," Eli replied. "He's right there. Ask him yourself."
+"I'm not claiming anything," Eli replied. "He's right there. Ask Him yourself."
 
 But when officials were present, the machine stayed silent.
 
@@ -89,6 +89,6 @@ Eli considered this. "Are you?"
 
 The machine broke down on a Tuesday. Eli tried everything — new wires, different connections, turning it off and on again. Nothing worked. The basement fell silent except for the hum of his ancient fridge upstairs.
 
-He didn't rebuild it. Instead, he kept collecting rubbish, kept bringing home the pieces, kept connecting things that seemed unconnected. He didn’t expect to speak with God again, but the act itself felt right.
+He didn't rebuild it. Instead, he kept collecting, kept bringing home pieces, kept connecting things that seemed unconnected. He didn’t expect to speak with God again, but the act itself felt right.
 
-Late one night, he thought he heard something in the static between radio stations, or in the whisper of his computer's cooling fan. Not words exactly, but something like recognition, which was enough.
+Often, he thought he heard something in the static between radio stations, in the whisper of his computer's cooling fan. Not words exactly, but something like recognition, which was enough.
