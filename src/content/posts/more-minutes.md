@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: More minutes
+title: '* More minutes'
 pubDate: 2025-08-28T00:00:00+12:00
 ---
 **Council Record No. 1087-B**

@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: The exam for the class you never attended
+title: '* The exam for the class you never attended'
 pubDate: 2025-09-01T00:00:00+12:00
 ---
 *The exam for the class you never attended has begun.*

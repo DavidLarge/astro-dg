@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Minutes
+title: '* Minutes'
 pubDate: 2025-08-26T00:00:00+12:00
 ---
 **Council Record No. 1074-B**

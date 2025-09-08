@@ -1,8 +1,7 @@
 ---
 _schema: default
-title: The modernist wing
+title: '* The modernist wing'
 pubDate: 2025-08-29T00:00:00+12:00
-tag: Fiction
 ---
 The typewriter ribbon needs changing again. She has been working through the same passage for forty minutes, and the letters are getting fainter. But the visitors expect to hear the keys striking, so she keeps typing the same line: “These fragments I have shored against my ruins.”
 

@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: After Beckett's Company
+title: '* After Beckett''s Company'
 pubDate: 2025-04-06T00:00:00+13:00
 ---
 *Written after seeing Simon O'Connor in Beckett's Company, as part of the* <a href="https://www.dunedinartsfestival.co.nz/programme/company" target="_blank" rel="noopener"><em>Dunedin Arts Festival</em></a>*. A pastiche, certainly, but the rhythms were infectious, and this seemed the best way to get them out of my head.*

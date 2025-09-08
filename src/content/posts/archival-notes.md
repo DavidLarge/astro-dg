@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Archival notes
+title: '* Archival notes'
 pubDate: 2025-08-15T00:00:00+12:00
 ---
 *The materials comprising Collection P-7 arrived in eleven boxes of varied provenance. Standard intake protocols were observed, though the donor's identity remains unclear due to administrative oversights since corrected. The collection spans approximately forty-three years and contains personal correspondence, photographic materials, ephemera, and miscellaneous documents pertaining to a single individual.*
